@@ -8,7 +8,17 @@
 * ------------------------------------------------------------
 */
 {
-    "current": {
-    }
+  "current": {
+    "sections": {
+      "announcement_bar": {
+        "type": "announcement_bar",
+        "settings": {
+          "show-announcement": false
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
   }
-  
+}
